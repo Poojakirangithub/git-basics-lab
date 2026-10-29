@@ -1,0 +1,7 @@
+INFO Application started
+
+ERROR Database connection failed
+
+INFO Request completed
+
+ERROR API timeout

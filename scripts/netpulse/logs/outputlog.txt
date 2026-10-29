@@ -1,0 +1,120 @@
+NetPulse Health Check
+Thu Oct 29 06:34:01 UTC 2026
+Disk Usage
+Filesystem                                                       Size  Used Avail Use% Mounted on
+/dev/root                                                         61G  6.7G   55G  11% /
+tmpfs                                                            7.9G     0  7.9G   0% /dev/shm
+tmpfs                                                            3.2G  1.2M  3.2G   1% /run
+tmpfs                                                            5.0M     0  5.0M   0% /run/lock
+efivarfs                                                         128M   32K  128M   1% /sys/firmware/efi/efivars
+/dev/sda16                                                       881M  138M  682M  17% /boot
+/dev/sda15                                                       105M  6.2M   99M   6% /boot/efi
+tmpfs                                                            1.6G  104K  1.6G   1% /run/user/114
+tmpfs                                                            1.6G  112K  1.6G   1% /run/user/1010
+//simplilearnstrgaccount.file.core.windows.net/simplilearn-pfsd  100T  5.1M  100T   1% /media/simplilearn-pfsd
+
+NetPulse Health Check
+Thu Oct 29 06:35:01 UTC 2026
+Disk Usage
+Filesystem                                                       Size  Used Avail Use% Mounted on
+/dev/root                                                         61G  6.7G   55G  11% /
+tmpfs                                                            7.9G     0  7.9G   0% /dev/shm
+tmpfs                                                            3.2G  1.2M  3.2G   1% /run
+tmpfs                                                            5.0M     0  5.0M   0% /run/lock
+efivarfs                                                         128M   32K  128M   1% /sys/firmware/efi/efivars
+/dev/sda16                                                       881M  138M  682M  17% /boot
+/dev/sda15                                                       105M  6.2M   99M   6% /boot/efi
+tmpfs                                                            1.6G  104K  1.6G   1% /run/user/114
+tmpfs                                                            1.6G  112K  1.6G   1% /run/user/1010
+//simplilearnstrgaccount.file.core.windows.net/simplilearn-pfsd  100T  5.1M  100T   1% /media/simplilearn-pfsd
+
+NetPulse Health Check
+Thu Oct 29 06:36:01 UTC 2026
+Disk Usage
+Filesystem                                                       Size  Used Avail Use% Mounted on
+/dev/root                                                         61G  6.7G   55G  11% /
+tmpfs                                                            7.9G     0  7.9G   0% /dev/shm
+tmpfs                                                            3.2G  1.2M  3.2G   1% /run
+tmpfs                                                            5.0M     0  5.0M   0% /run/lock
+efivarfs                                                         128M   32K  128M   1% /sys/firmware/efi/efivars
+/dev/sda16                                                       881M  138M  682M  17% /boot
+/dev/sda15                                                       105M  6.2M   99M   6% /boot/efi
+tmpfs                                                            1.6G  104K  1.6G   1% /run/user/114
+tmpfs                                                            1.6G  112K  1.6G   1% /run/user/1010
+//simplilearnstrgaccount.file.core.windows.net/simplilearn-pfsd  100T  5.1M  100T   1% /media/simplilearn-pfsd
+
+NetPulse Health Check
+Thu Oct 29 06:37:01 UTC 2026
+Disk Usage
+Filesystem                                                       Size  Used Avail Use% Mounted on
+/dev/root                                                         61G  6.7G   55G  11% /
+tmpfs                                                            7.9G     0  7.9G   0% /dev/shm
+tmpfs                                                            3.2G  1.2M  3.2G   1% /run
+tmpfs                                                            5.0M     0  5.0M   0% /run/lock
+efivarfs                                                         128M   32K  128M   1% /sys/firmware/efi/efivars
+/dev/sda16                                                       881M  138M  682M  17% /boot
+/dev/sda15                                                       105M  6.2M   99M   6% /boot/efi
+tmpfs                                                            1.6G  104K  1.6G   1% /run/user/114
+tmpfs                                                            1.6G  112K  1.6G   1% /run/user/1010
+//simplilearnstrgaccount.file.core.windows.net/simplilearn-pfsd  100T  5.1M  100T   1% /media/simplilearn-pfsd
+
+NetPulse Health Check
+Thu Oct 29 06:38:01 UTC 2026
+Disk Usage
+Filesystem                                                       Size  Used Avail Use% Mounted on
+/dev/root                                                         61G  6.7G   55G  11% /
+tmpfs                                                            7.9G     0  7.9G   0% /dev/shm
+tmpfs                                                            3.2G  1.2M  3.2G   1% /run
+tmpfs                                                            5.0M     0  5.0M   0% /run/lock
+efivarfs                                                         128M   32K  128M   1% /sys/firmware/efi/efivars
+/dev/sda16                                                       881M  138M  682M  17% /boot
+/dev/sda15                                                       105M  6.2M   99M   6% /boot/efi
+tmpfs                                                            1.6G  104K  1.6G   1% /run/user/114
+tmpfs                                                            1.6G  112K  1.6G   1% /run/user/1010
+//simplilearnstrgaccount.file.core.windows.net/simplilearn-pfsd  100T  5.1M  100T   1% /media/simplilearn-pfsd
+
+NetPulse Health Check
+Thu Oct 29 06:39:01 UTC 2026
+Disk Usage
+Filesystem                                                       Size  Used Avail Use% Mounted on
+/dev/root                                                         61G  6.7G   55G  11% /
+tmpfs                                                            7.9G     0  7.9G   0% /dev/shm
+tmpfs                                                            3.2G  1.2M  3.2G   1% /run
+tmpfs                                                            5.0M     0  5.0M   0% /run/lock
+efivarfs                                                         128M   32K  128M   1% /sys/firmware/efi/efivars
+/dev/sda16                                                       881M  138M  682M  17% /boot
+/dev/sda15                                                       105M  6.2M   99M   6% /boot/efi
+tmpfs                                                            1.6G  104K  1.6G   1% /run/user/114
+tmpfs                                                            1.6G  112K  1.6G   1% /run/user/1010
+//simplilearnstrgaccount.file.core.windows.net/simplilearn-pfsd  100T  5.1M  100T   1% /media/simplilearn-pfsd
+
+NetPulse Health Check
+Thu Oct 29 06:40:01 UTC 2026
+Disk Usage
+Filesystem                                                       Size  Used Avail Use% Mounted on
+/dev/root                                                         61G  6.7G   55G  11% /
+tmpfs                                                            7.9G     0  7.9G   0% /dev/shm
+tmpfs                                                            3.2G  1.2M  3.2G   1% /run
+tmpfs                                                            5.0M     0  5.0M   0% /run/lock
+efivarfs                                                         128M   32K  128M   1% /sys/firmware/efi/efivars
+/dev/sda16                                                       881M  138M  682M  17% /boot
+/dev/sda15                                                       105M  6.2M   99M   6% /boot/efi
+tmpfs                                                            1.6G  104K  1.6G   1% /run/user/114
+tmpfs                                                            1.6G  112K  1.6G   1% /run/user/1010
+//simplilearnstrgaccount.file.core.windows.net/simplilearn-pfsd  100T  5.1M  100T   1% /media/simplilearn-pfsd
+
+NetPulse Health Check
+Thu Oct 29 06:41:01 UTC 2026
+Disk Usage
+Filesystem                                                       Size  Used Avail Use% Mounted on
+/dev/root                                                         61G  6.7G   55G  11% /
+tmpfs                                                            7.9G     0  7.9G   0% /dev/shm
+tmpfs                                                            3.2G  1.2M  3.2G   1% /run
+tmpfs                                                            5.0M     0  5.0M   0% /run/lock
+efivarfs                                                         128M   32K  128M   1% /sys/firmware/efi/efivars
+/dev/sda16                                                       881M  138M  682M  17% /boot
+/dev/sda15                                                       105M  6.2M   99M   6% /boot/efi
+tmpfs                                                            1.6G  104K  1.6G   1% /run/user/114
+tmpfs                                                            1.6G  112K  1.6G   1% /run/user/1010
+//simplilearnstrgaccount.file.core.windows.net/simplilearn-pfsd  100T  5.1M  100T   1% /media/simplilearn-pfsd
+
